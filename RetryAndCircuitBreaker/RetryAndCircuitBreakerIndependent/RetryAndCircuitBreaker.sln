@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetryAndCircuitBreakerClient", "RetryAndCircuitBreaker\RetryAndCircuitBreakerClient.csproj", "{75358EDA-918D-4AF8-B8EE-3F168BCD922D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestRetryAndCircuitBreakerApi", "TestRetryAndCircuitBreakerApi\TestRetryAndCircuitBreakerApi.csproj", "{0139F3F1-A2D7-491B-9610-33B44D7458DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetryAndCircuitBreakerService", "RetryAndCircuitBreakerService\RetryAndCircuitBreakerService.csproj", "{508AFC2A-B271-4D2A-AE57-EC0EA220CD20}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetryAndCircuitBreakerRepo", "RetryAndCircuitBreakerRepo\RetryAndCircuitBreakerRepo.csproj", "{064BD096-40FF-474F-8197-E3A546DE189C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75358EDA-918D-4AF8-B8EE-3F168BCD922D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75358EDA-918D-4AF8-B8EE-3F168BCD922D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75358EDA-918D-4AF8-B8EE-3F168BCD922D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75358EDA-918D-4AF8-B8EE-3F168BCD922D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0139F3F1-A2D7-491B-9610-33B44D7458DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0139F3F1-A2D7-491B-9610-33B44D7458DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0139F3F1-A2D7-491B-9610-33B44D7458DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0139F3F1-A2D7-491B-9610-33B44D7458DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{508AFC2A-B271-4D2A-AE57-EC0EA220CD20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508AFC2A-B271-4D2A-AE57-EC0EA220CD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508AFC2A-B271-4D2A-AE57-EC0EA220CD20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508AFC2A-B271-4D2A-AE57-EC0EA220CD20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{064BD096-40FF-474F-8197-E3A546DE189C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064BD096-40FF-474F-8197-E3A546DE189C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064BD096-40FF-474F-8197-E3A546DE189C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064BD096-40FF-474F-8197-E3A546DE189C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A9B39A6-AA0C-43C2-85B0-1236AFF8A4EE}
+	EndGlobalSection
+EndGlobal

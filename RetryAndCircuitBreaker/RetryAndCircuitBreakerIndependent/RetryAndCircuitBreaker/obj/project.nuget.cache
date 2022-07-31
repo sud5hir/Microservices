@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nSr9R46CfDOKDxkt79TyZMNK4lK20e+xLkK6ksjAncVp73n2/pyX2zIVlFC9Cinlip2PjwQ5z6ZIPsaE+CfuAw==",
+  "success": true,
+  "projectFilePath": "D:\\Sudhir_Resume\\Sudhir_learn\\Microservices\\MSCode\\Microservices\\RetryAndCircuitBreaker\\RetryAndCircuitBreakerIndependent\\RetryAndCircuitBreaker\\RetryAndCircuitBreakerClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sud5h\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\poly\\1.0.1\\poly.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

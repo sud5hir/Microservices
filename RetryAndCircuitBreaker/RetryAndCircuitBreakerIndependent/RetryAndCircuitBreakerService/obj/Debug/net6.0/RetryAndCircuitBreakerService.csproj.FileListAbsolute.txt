@@ -1,0 +1,15 @@
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerService\bin\Debug\net6.0\RetryAndCircuitBreakerService.deps.json
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerService\bin\Debug\net6.0\RetryAndCircuitBreakerService.dll
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerService\bin\Debug\net6.0\ref\RetryAndCircuitBreakerService.dll
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerService\bin\Debug\net6.0\RetryAndCircuitBreakerService.pdb
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerService\obj\Debug\net6.0\RetryAndCircuitBreakerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerService\obj\Debug\net6.0\RetryAndCircuitBreakerService.AssemblyInfoInputs.cache
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerService\obj\Debug\net6.0\RetryAndCircuitBreakerService.AssemblyInfo.cs
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerService\obj\Debug\net6.0\RetryAndCircuitBreakerService.csproj.CoreCompileInputs.cache
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerService\obj\Debug\net6.0\RetryAndCircuitBreakerService.dll
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerService\obj\Debug\net6.0\ref\RetryAndCircuitBreakerService.dll
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerService\obj\Debug\net6.0\RetryAndCircuitBreakerService.pdb
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerService\bin\Debug\net6.0\RetryAndCircuitBreakerRepo.dll
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerService\bin\Debug\net6.0\RetryAndCircuitBreakerRepo.pdb
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerService\obj\Debug\net6.0\RetryAndCircuitBreakerService.csproj.AssemblyReference.cache
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerService\obj\Debug\net6.0\RetryAndCircuitBreakerService.csproj.CopyComplete

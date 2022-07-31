@@ -1,0 +1,136 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Polly/7.2.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Polly.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Polly.dll": {}
+        }
+      },
+      "Poly/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Poly.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Poly.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polly/7.2.3": {
+      "sha512": "DeCY0OFbNdNxsjntr1gTXHJ5pKUwYzp04Er2LLeN3g6pWhffsGuKVfMBLe1lw7x76HrPkLxKEFxBlpRxS2nDEQ==",
+      "type": "package",
+      "path": "polly/7.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Polly.png",
+        "lib/net461/Polly.dll",
+        "lib/net461/Polly.pdb",
+        "lib/net461/Polly.xml",
+        "lib/net472/Polly.dll",
+        "lib/net472/Polly.pdb",
+        "lib/net472/Polly.xml",
+        "lib/netstandard1.1/Polly.dll",
+        "lib/netstandard1.1/Polly.pdb",
+        "lib/netstandard1.1/Polly.xml",
+        "lib/netstandard2.0/Polly.dll",
+        "lib/netstandard2.0/Polly.pdb",
+        "lib/netstandard2.0/Polly.xml",
+        "polly.7.2.3.nupkg.sha512",
+        "polly.nuspec"
+      ]
+    },
+    "Poly/1.0.1": {
+      "sha512": "+1j+snst4Z52VOCI8KJWc5SbO5nRKYB1FBbKxnFkL8pZ23A4zjnOFHX8zHhp7D+krsp/HakWKu3i+tNS2xy5dA==",
+      "type": "package",
+      "path": "poly/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Poly.dll",
+        "poly.1.0.1.nupkg.sha512",
+        "poly.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Polly >= 7.2.3",
+      "Poly >= 1.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sud5h\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Sudhir_Resume\\Sudhir_learn\\Microservices\\MSCode\\Microservices\\RetryAndCircuitBreaker\\RetryAndCircuitBreakerIndependent\\RetryAndCircuitBreaker\\RetryAndCircuitBreakerClient.csproj",
+      "projectName": "RetryAndCircuitBreakerClient",
+      "projectPath": "D:\\Sudhir_Resume\\Sudhir_learn\\Microservices\\MSCode\\Microservices\\RetryAndCircuitBreaker\\RetryAndCircuitBreakerIndependent\\RetryAndCircuitBreaker\\RetryAndCircuitBreakerClient.csproj",
+      "packagesPath": "C:\\Users\\sud5h\\.nuget\\packages\\",
+      "outputPath": "D:\\Sudhir_Resume\\Sudhir_learn\\Microservices\\MSCode\\Microservices\\RetryAndCircuitBreaker\\RetryAndCircuitBreakerIndependent\\RetryAndCircuitBreaker\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\sud5h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Polly": {
+            "target": "Package",
+            "version": "[7.2.3, )"
+          },
+          "Poly": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

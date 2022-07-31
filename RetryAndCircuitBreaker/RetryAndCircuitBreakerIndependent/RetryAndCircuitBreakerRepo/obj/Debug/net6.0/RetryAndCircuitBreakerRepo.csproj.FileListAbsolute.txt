@@ -1,0 +1,11 @@
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerRepo\obj\Debug\net6.0\RetryAndCircuitBreakerRepo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerRepo\obj\Debug\net6.0\RetryAndCircuitBreakerRepo.AssemblyInfoInputs.cache
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerRepo\obj\Debug\net6.0\RetryAndCircuitBreakerRepo.AssemblyInfo.cs
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerRepo\obj\Debug\net6.0\RetryAndCircuitBreakerRepo.csproj.CoreCompileInputs.cache
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerRepo\bin\Debug\net6.0\RetryAndCircuitBreakerRepo.deps.json
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerRepo\bin\Debug\net6.0\RetryAndCircuitBreakerRepo.dll
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerRepo\bin\Debug\net6.0\ref\RetryAndCircuitBreakerRepo.dll
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerRepo\bin\Debug\net6.0\RetryAndCircuitBreakerRepo.pdb
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerRepo\obj\Debug\net6.0\RetryAndCircuitBreakerRepo.dll
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerRepo\obj\Debug\net6.0\ref\RetryAndCircuitBreakerRepo.dll
+D:\Sudhir_Resume\Sudhir_learn\RetryAndCircuitBreaker\New folder\RetryAndCircuitBreakerRepo\obj\Debug\net6.0\RetryAndCircuitBreakerRepo.pdb
