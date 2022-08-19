@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4zVtvlXqTTLZcOlW+7a0lQAx/gJ+WJca7ZEuZRy10v1VYjIzeL1Pbp+J4bL0Lp7KFIDDwquAtLLcsQu+ratDiA==",
+  "success": true,
+  "projectFilePath": "d:\\Sudhir_Resume\\Sudhir_learn\\Microservices\\Microservices\\ApiGateway\\InventoryService\\InventoryService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sud5h\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+https://github.com/narottamgoyal/api.gateway.with.service.discovery
+https://medium.com/@bingeek/microservices-net-core-with-example-part-7-839e0c02877
+https://medium.com/@azsecured/install-hashicorp-consul-agent-on-windows-server-cba60bbb4fdd
+https://www.youtube.com/watch?v=1Aip1tdqoVA
+https://www.youtube.com/c/InfinitePOC/videos
+https://www.c-sharpcorner.com/article/challenges-with-microservices/
+https://github.com/narottamgoyal/api.gateway.with.service.discovery
+https://medium.com/@bingeek/microservices-net-core-with-example-part-7-839e0c02877
+https://www.c-sharpcorner.com/article/challenges-with-microservices/
+
+http://localhost:8500/ui/dc1/services - Dashboard
+"C:\Users\sud5h\Downloads\consul_1.12.3_windows_amd64\consul.exe" agent  --dev - Command to run

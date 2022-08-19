@@ -1,0 +1,2 @@
+https://www.learmoreseekmore.com/2022/03/dotnet6-part5-ocelot-api-gateway-for-microservices.html
+https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core/

@@ -1,0 +1,12 @@
+D:\Sudhir_Resume\Sudhir_learn\Microservices\Microservices\ServiceDiscovery\ServiceExtensions\bin\Debug\net6.0\ServiceExtensions.deps.json
+D:\Sudhir_Resume\Sudhir_learn\Microservices\Microservices\ServiceDiscovery\ServiceExtensions\bin\Debug\net6.0\ServiceExtensions.dll
+D:\Sudhir_Resume\Sudhir_learn\Microservices\Microservices\ServiceDiscovery\ServiceExtensions\bin\Debug\net6.0\ref\ServiceExtensions.dll
+D:\Sudhir_Resume\Sudhir_learn\Microservices\Microservices\ServiceDiscovery\ServiceExtensions\bin\Debug\net6.0\ServiceExtensions.pdb
+D:\Sudhir_Resume\Sudhir_learn\Microservices\Microservices\ServiceDiscovery\ServiceExtensions\obj\Debug\net6.0\ServiceExtensions.csproj.AssemblyReference.cache
+D:\Sudhir_Resume\Sudhir_learn\Microservices\Microservices\ServiceDiscovery\ServiceExtensions\obj\Debug\net6.0\ServiceExtensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sudhir_Resume\Sudhir_learn\Microservices\Microservices\ServiceDiscovery\ServiceExtensions\obj\Debug\net6.0\ServiceExtensions.AssemblyInfoInputs.cache
+D:\Sudhir_Resume\Sudhir_learn\Microservices\Microservices\ServiceDiscovery\ServiceExtensions\obj\Debug\net6.0\ServiceExtensions.AssemblyInfo.cs
+D:\Sudhir_Resume\Sudhir_learn\Microservices\Microservices\ServiceDiscovery\ServiceExtensions\obj\Debug\net6.0\ServiceExtensions.csproj.CoreCompileInputs.cache
+D:\Sudhir_Resume\Sudhir_learn\Microservices\Microservices\ServiceDiscovery\ServiceExtensions\obj\Debug\net6.0\ServiceExtensions.dll
+D:\Sudhir_Resume\Sudhir_learn\Microservices\Microservices\ServiceDiscovery\ServiceExtensions\obj\Debug\net6.0\ref\ServiceExtensions.dll
+D:\Sudhir_Resume\Sudhir_learn\Microservices\Microservices\ServiceDiscovery\ServiceExtensions\obj\Debug\net6.0\ServiceExtensions.pdb

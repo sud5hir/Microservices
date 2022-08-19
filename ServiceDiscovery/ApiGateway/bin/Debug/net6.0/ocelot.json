@@ -1,0 +1,75 @@
+{
+  "Routes": [
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/Inventory",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 9003
+        }
+      ],
+      "UpstreamPathTemplate": "/Inventory",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "ReRoutesCaseSensitive": false
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/Payment",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 9001
+        }
+      ],
+      "UpstreamPathTemplate": "/Payment",
+      "UpstreamHttpMethod": [ "Get", "Post" ]
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/Payment/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 9001
+        }
+      ],
+      "UpstreamPathTemplate": "/Payment/{id}",
+      "UpstreamHttpMethod": [ "Get", "Post" ]
+    }
+    //{
+    //  "DownstreamPathTemplate": "/products/{id}",
+    //  "DownstreamScheme": "https",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 7109
+    //    }
+    //  ],
+    //  "UpstreamPathTemplate": "/manufacture/products/{id}",
+    //  "UpstreamHttpMethod": [ "Get", "Post" ]
+    //},
+    //{
+    //  "DownstreamPathTemplate": "/orders/{id}",
+    //  "DownstreamScheme": "https",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 7013
+    //    }
+    //  ],
+    //  "UpstreamPathTemplate": "/sales/orders/{id}",
+    //  "UpstreamHttpMethod": [ "Get", "Post" ]
+    //}
+  ],
+  "GlobalConfiguration": {
+    "ServiceDiscoveryProvider": {
+      "Host": "localhost",
+      "Port": 8500,
+      "Type": "Consul"
+    }
+  }
+}
