@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CBKD8BKiVMw6tllfDv9xnBhANd39TxdmkNsr7PBrwBE=",
+  "Source": "BuildResiliencePolyService",
+  "BasePath": "_content/BuildResiliencePolyService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
